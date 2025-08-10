@@ -5,9 +5,9 @@
 }
 
 body {
-    background: white; /* Changed background to white */
+    background: white; 
     min-height: 100vh;
-    overflow: hidden; /* Added 'hidden' to prevent overflow */
+    overflow: hidden; 
 }
 
 header {
@@ -15,13 +15,13 @@ header {
     border: 1px solid black;
     margin-bottom: 3vh;
     text-align: center;
-    background-color: #003366; /* Changed header to dark blue */
-    color: white; /* Added text color for better contrast */
+    background-color: #003366; 
+    color: white; 
     font-family: 'mine';
     margin-top: 10vh;
     font-size: 6vh;
-    border-radius: 10px; /* Added rounded edges */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Added shadow */
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
 }
 
 aside {
@@ -85,3 +85,4 @@ footer {
         padding: 10px;
     }
 }
+
